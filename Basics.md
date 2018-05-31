@@ -14,3 +14,13 @@
 - > squares []
 - > for x in range (1,11):
 - > squares.append (x**2)
+
+#### list comprehensions
+- > squares = [x**2 for x in range (1,11)]
+
+#### slicing a list
+- > langs = ['python', 'java','R']
+- > first_two = langs [:2]
+
+#### copying a list
+-  > copy_oflangs = langs[:]
