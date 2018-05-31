@@ -24,3 +24,9 @@
 
 #### copying a list
 -  > copy_oflangs = langs[:]
+
+
+### Tuples
+- similar to lists but the items in a tuple cant be modified 
+- > dimensions = (1920, 1080)
+
