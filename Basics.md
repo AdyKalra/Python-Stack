@@ -30,3 +30,14 @@
 - similar to lists but the items in a tuple cant be modified 
 - > dimensions = (1920, 1080)
 
+### Dictionaries
+- key value pairs
+- >alien = {'color':'green', 'points':5}
+- accessing a value
+- >print("aliens color" + alien ['Color'])
+- adding a key value pair
+- >alien ['position'] = 5
+- looping through all key value pairs 
+- >for name, point in alien.keys()
+- >for name, point in alien.items()
+- >for name, point in alien.values()
