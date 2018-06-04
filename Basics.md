@@ -41,3 +41,16 @@
 - >for name, point in alien.keys()
 - >for name, point in alien.items()
 - >for name, point in alien.values()
+
+#### user input
+- > name = imput ("org name")
+
+#### functions 
+- > def models(regression_algo)
+- > print("algo chosen"+regression_algo)
+
+- > models ('bayseian')
+
+
+
+
