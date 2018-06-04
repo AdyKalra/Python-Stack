@@ -51,6 +51,20 @@
 
 - > models ('bayseian')
 
+### classes
+- > class model ():
+- represents a ML model
+- > def _init_(self, name):
+- > self.name = name
+
+- > my_model = model ('decisiontree')
+
+
+### Inheritance
+ - > class regression(Model)
+ represents a regression model
+ - > def _init_(self,name):
+ - > super()._init_(name)
 
 
 
