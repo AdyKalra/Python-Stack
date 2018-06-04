@@ -67,4 +67,12 @@
  - > super()._init_(name)
 
 
+### Exceptions
+- > try:
+- >  models ("bayesian")
+- > except ValueError:
+- > print ("pls try again")
+- > else:
+- > print ("model chosen is"+model)
+
 
