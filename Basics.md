@@ -6,7 +6,7 @@
 > print(spam_amount)
 - A function call. print is an extremely useful builtin Python function that displays the value passed to it on the screen. We call functions by putting parentheses after their name, with the inputs to the function (or arguments) in between.
 
-> # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
+> #### Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
 > spam_amount = spam_amount + 4
 - The first line above is a comment. In Python, comments begin with the # symbol.
 
