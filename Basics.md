@@ -1,6 +1,6 @@
 #### Python was named for the British comedy troupe Monty Python, so why not make our first Python program an homage to their famous Spam skit?
 
-- > spam_amount = 0
+> spam_amount = 0
 - Variable assignment! Here we create a variable called spam_amount and assign it the value of 0 using =, Python's assignment operator.
 
 - > print(spam_amount)
