@@ -1,6 +1,6 @@
 # Python-Stack
 
-<a name="CHEATSHEET">[<img src="https://www.latesthackingnews.com/wp-content/uploads/2014/11/best-python-cheatsheet.png" width="80px" height="1100px" />]</a>
+<a name="CHEATSHEET">[<img src="https://www.latesthackingnews.com/wp-content/uploads/2014/11/best-python-cheatsheet.png" width="800px" height="1100px"/>]</a>
 
 
 
