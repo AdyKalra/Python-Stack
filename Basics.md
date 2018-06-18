@@ -1,3 +1,21 @@
+#### Python was named for the British comedy troupe Monty Python, so why not make our first Python program an homage to their famous Spam skit?
+
+- > spam_amount = 0
+- Variable assignment! Here we create a variable called spam_amount and assign it the value of 0 using =, Python's assignment operator.
+
+- > print(spam_amount)
+- A function call. print is an extremely useful builtin Python function that displays the value passed to it on the screen. We call functions by putting parentheses after their name, with the inputs to the function (or arguments) in between.
+
+- > # Ordering Spam, egg, Spam, Spam, bacon and Spam (4 more servings of Spam)
+- > spam_amount = spam_amount + 4
+- The first line above is a comment. In Python, comments begin with the # symbol.
+
+- > if spam_amount > 0:
+- > print("But I don't want ANY spam!") 
+- The colon (:) at the end of the if line indicates that a new "code block" is coming up. Subsequent lines which are indented (beginning with an extra 4 spaces) are part of that code block. You may be familiar with other languages which use {curly braces} to mark the beginning and end of code blocks. Python's use of meaningful whitespace often is surprising to programmers who are accustomed to other languages, but in practice it can lead to more consistent and readable code than languages that do not enforce indentation of code blocks.
+
+
+
 #### Variables and Strings
 - msg = "ady likes learning"
 - concatenation +
