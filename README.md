@@ -1,6 +1,6 @@
 # PythonStack
-* [.Python 3 Cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-* [.Python Cheatsheet](http://www.cogsci.rpi.edu/~destem/igd/python_cheat_sheet.pdf)
+* [Python 3 Cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+* [Python Cheatsheet](http://www.cogsci.rpi.edu/~destem/igd/python_cheat_sheet.pdf)
 
 ## Python Basics
 Go to Python Basic [Page](https://github.com/ramyrams/.NETStack/tree/master/.NETFrameworkBasic)
