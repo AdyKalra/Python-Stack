@@ -15,8 +15,8 @@
 - The colon (:) at the end of the if line indicates that a new "code block" is coming up. Subsequent lines which are indented (beginning with an extra 4 spaces) are part of that code block. You may be familiar with other languages which use {curly braces} to mark the beginning and end of code blocks. Python's use of meaningful whitespace often is surprising to programmers who are accustomed to other languages, but in practice it can lead to more consistent and readable code than languages that do not enforce indentation of code blocks.
 - Strings can be marked either by double or single quotation marks. (But because this particular string contains a single-quote character, we might confuse Python by trying to surround it with single-quotes, unless we're careful.)
 
-- / b	True division	Quotient of a and b
-- // b	Floor division	Quotient of a and b, removing fractional parts
+- a / b	True division	Quotient of a and b
+- a // b	Floor division	Quotient of a and b, removing fractional parts
 
 #### Order of operations
 - The arithmetic we learned in primary school has conventions about the order in which operations are evaluated. Some remember these by a mnemonic such as PEMDAS - Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
